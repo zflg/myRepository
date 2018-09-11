@@ -1,2 +1,3 @@
 i worte a git test!
 i change a git test!
+Git is free software distributed under the GPL.
